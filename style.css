@@ -1,7 +1,13 @@
 body {
+<<<<<<< HEAD
     font-family: Arial;
     margin: 0;
     padding: 0;
+=======
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+>>>>>>> ae92290bf73ce06062977bb52403f53566ec15d7
 }
 
 .content {
